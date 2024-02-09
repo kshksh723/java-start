@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class HelloJava {
+package PACKAGE_NAME;
+
+    public class HelloJava {
 }
