@@ -11,7 +11,7 @@ public class Var7 {
 
 
         // String 첫글자가 대문자로 시작하는 특별한 타입이다
-        
+        // 리터럴은 문자 또는 글자를 의미한다
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
