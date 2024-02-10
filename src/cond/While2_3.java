@@ -1,6 +1,6 @@
 package cond;
 /*
-    while문을 사용하면 원하는 횟수만큼 같은 코드를 반복 실행할 수 있따
+    while문을 사용하면 원하는 횟수만큼 같은 코드를 반복 실행할 수 있다
  */
 public class While2_3 {
     public static void main(String[] args) {
